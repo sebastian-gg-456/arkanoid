@@ -1,3 +1,11 @@
+// main.js
+
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Main.js: Juego Arkanoid listo para iniciar.");
+  // Podrías agregar aquí configuraciones globales o precarga de recursos.
+});
+
+
 import HelloWorldScene from "./scenes/HelloWorldScene.js";
 
 // Create a new Phaser config object
